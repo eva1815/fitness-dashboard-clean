@@ -3,6 +3,9 @@
 A Streamlit-powered interactive dashboard to visualize sample fitness data (workouts, minutes, and calories). Built with Python, Pandas, NumPy, and Plotly.
 
 🔗 Live Demo: https://fitness-dashboard-clean-28fkggo8uqqtrasctr6ptm.streamlit.app/
+🔗 Live Demo: Click here to view
+
+📂 Source Code: GitHub Repo
 
 📂 Source Code: https://github.com/eva1815/fitness-dashboard-clean
 
