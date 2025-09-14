@@ -5,7 +5,7 @@ import plotly.express as px
 
 st.set_page_config(page_title="Eva's Fitness Dashboard", layout="wide")
 st.title("🏋️‍♀️ Eva's Fitness Log — Minutes & Calories")
-st.caption("Sample dataset. Use the sidebar to filter. (You can replace with your own CSV later.)")
+st.caption("Sample dataset. Use the sidebar to filter.")
 
 # -----------------------
 # Sample Fitness Data
