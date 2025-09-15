@@ -11,7 +11,7 @@ st.caption("Sample dataset. Use the sidebar to filter.")
 # Sample Fitness Data
 # -----------------------
 def sample_fitness():
-    rng = pd.date_range("2025-01-01", periods=120, freq="D")
+    rng = pd.date_range("2024-01-01", periods=365, freq="D")
     activities = ["Running","Weightlifting","Yoga","Cycling","Walking"]
     df = pd.DataFrame({
         "date": rng,
