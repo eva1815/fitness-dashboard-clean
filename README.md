@@ -4,6 +4,8 @@ A Streamlit-powered interactive dashboard to visualize sample fitness data (work
 
 🔗 Live Demo: https://fitness-dashboard-clean-28fkggo8uqqtrasctr6ptm.streamlit.app/
 
+📂 Source Code: GitHub Repo
+
 📂 Source Code: https://github.com/eva1815/fitness-dashboard-clean
 
 📊 Features
